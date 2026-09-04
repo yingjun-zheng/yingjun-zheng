@@ -1,10 +1,26 @@
-#### 你好 
-#### Hello 
-#### Bonjour
-#### Hola 
-#### Guten Tag
-#### こんにちは
-#### 안녕하세요
-#### Привет
-#### Ciao
-#### Olá
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=你%20T好!👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20profile!&descAlignY=51&descAlign=62" />
+</div>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=600&lines=Hello%2C%20World!;Talk%20is%20cheap.%20Show%20me%20the%20code!;It%20works%20on%20my%20machine!&size=27" alt="Typing SVG" />
+  </a>
+
+</h3>
+### 👨‍💻 About Me
+
+- 💬 Ask me anything you want!
+- 📫  My blog: [https://blog.csdn.net/plazyj](https://blog.csdn.net/plazyj)
+- 🌐 My Gitee: [https://gitee.com/lkyzhengyj/](https://gitee.com/lkyzhengyj/)
+- 📝 How to reach me: **yingjunzheng@outlook.com**
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yingjun-zheng&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yingjun-zheng&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yingjun-zheng&theme=radical" alt="streak graph" />
+</div>
