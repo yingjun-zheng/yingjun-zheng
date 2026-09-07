@@ -14,6 +14,7 @@
 - 📫 My blog: [https://blog.csdn.net/plazyj](https://blog.csdn.net/plazyj)
 - 🌐 My Gitee: [https://gitee.com/lkyzhengyj/](https://gitee.com/lkyzhengyj/)
 - 📝 How to reach me: **yingjunzheng@outlook.com**
+- 🚴 GIANT ATX810
 
 ### 📊 GitHub Stats
 
